@@ -7,7 +7,6 @@ Write a python code to read .csv files present in a folder and write to a .xlsx 
   Read .csv file present in the folder named 'folder'
 
   	Check all the .csv files present in the folder
-	
     	If the file has String present in its first 'A' column matching with "Kew_" in the iterating A'th column cell, then:
      		Copy all the contents of the row with the String "Kew_" and paste it in the .xlsx file
       		Continue this iteration for all the .csv files and print "Successful" when done.
